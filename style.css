@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    text-align: center;    
+    background-image: url(https://i.pinimg.com/736x/fb/84/6a/fb846a3d696b1611a475025e2e650426.jpg);
+}
+
+div {
+    background-color: #F5F5F7;
+}
+
+h1{
+    color: #818C78;
+}
+
+h4{
+    color: #818C78;
+}
+
+h3{
+    color: #818C78;
+}
+
+.container{
+    
+    margin-top:30px;
+    width: 80%;
+    max-width: 1000px;
+    border: 10px solid;
+    padding: 20px;
+    background-color:white;
+    color: #697565;
+}
+
+.footer{
+    background-color: white;
+    border: 10px solid;
+    color: #697565;
+    margin-top: 50px;
+    padding: 20px;
+    text-align:center;
+}
